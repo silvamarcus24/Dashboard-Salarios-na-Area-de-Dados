@@ -16,8 +16,11 @@ Gerar gráficos interativos diretamente no dashboard.
 # 🚀 Tecnologias Utilizadas
 
 Python
+
 Streamlit
+
 Pandas
+
 Plotly Express
 
 ---
@@ -26,18 +29,31 @@ Plotly Express
 Este projeto oferece as seguintes funcionalidades interativas:
 
 ✅ Filtros na barra lateral:
+
 Filtrar por ano, senioridade, tipo de contrato e tamanho da empresa.
+
 ✅ Principais métricas (KPIs):
+
 Salário médio
+
 Salário máximo
+
 Total de registros filtrados
+
 Cargo mais frequente
+
 ✅ Visualizações interativas:
+
 Top 10 cargos por salário médio
+
 Distribuição de salários anuais
+
 Proporção de tipos de trabalho (remoto, híbrido, presencial)
+
 Mapa interativo de salários médios de Cientistas de Dados por país
+
 ✅ Tabela detalhada:
+
 Exibição dos dados filtrados em formato tabular, permitindo uma análise mais profunda.
 
 ---
