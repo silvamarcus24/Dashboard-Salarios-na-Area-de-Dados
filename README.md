@@ -3,7 +3,7 @@ Este projeto foi desenvolvido durante a Imersão Python com Dados da Alura e tem
 
 ---
 
-📚 Sobre o Projeto
+# 📚 Sobre o Projeto
 No decorrer da última aula da imersão, aprendi a:
 
 Criar dashboards interativos com Streamlit.
