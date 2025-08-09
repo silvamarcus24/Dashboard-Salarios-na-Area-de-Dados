@@ -1,4 +1,4 @@
-## Dashboard Interativo para Análise de Salários com Python, Streamlit e Plotly Express # 7DaysOfCode---HTML-e-CSS - Replica da Página de Perfil do LinkedIn
+## Dashboard Interativo para Análise de Salários com Python, Streamlit e Plotly Express 
 Este projeto foi desenvolvido durante a Imersão Python com Dados da Alura e tem como objetivo criar um dashboard interativo para a análise de salários na área de dados. Utilizando Python, Streamlit, Pandas e Plotly Express, o dashboard permite explorar, filtrar e visualizar dados de forma dinâmica e interativa, facilitando a análise e apresentação de informações.
 
 📚 Sobre o Projeto
